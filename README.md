@@ -1,5 +1,4 @@
-<h1 align="center">🚀 ERWANIS</h1>
-<p align="center"><b>Accessibilité Campus</b></p>
+<img width="1356" height="315" alt="image" src="https://github.com/user-attachments/assets/814d7106-90b9-4f11-b7dc-98393b736f98" />
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
