@@ -66,7 +66,7 @@
 
 ## 👥 Équipe de Développement
 
-- **Développeurs** : Anis LAFRAD (Le Boss) et Erwan SELLIN (Le Goat)
+- **Développeurs** : Anis LAFRAD et Erwan SELLIN
 
 *L3 Informatique - Challenge Positive Futures*
 
